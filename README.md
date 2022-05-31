@@ -2,7 +2,9 @@ Hi! I'm Tom Joshi-Cale, and I'm a first-year Astrophysics PhD student at the Uni
 
 My primary coding language is Python, I have experience using the ISCA supercomputer, using the Dedalus Pseudo-spectral code, and I have also completed the [FreeCodeCamp.org Scientific Programming in Python](https://freecodecamp.org/certification/tomjoshi-cale/scientific-computing-with-python-v7), and the code I wrote for that course can be found [here](https://github.com/TomJoshi-Cale/FCC-Scientific-Python). I also used Python for my MPhys project investigating the long-term variability of Young Stellar Objects (some code from which can be found [here](https://github.com/TomJoshi-Cale/MPhys-YSO-Code)).
 
-I am proficient at coding in C due to the Computational Modelling in C module at university, and my project submissions for that module can be found in [here](https://github.com/TomJoshi-Cale/PHYM004-CompMod). Additionally, I am currently learning Javascript to teach myself how to build simple user-friendly applications.
+I am proficient at coding in C due to the Computational Modelling in C module at university, and my project submissions for that module can be found in [here](https://github.com/TomJoshi-Cale/PHYM004-CompMod). 
+
+In my own time I am working through further FreeCodeCamp qualifications. I have completed the [Javascript qualification](https://www.freecodecamp.org/certification/tomjoshi-cale/javascript-algorithms-and-data-structures) and am currently working on the Front End Development course.
 
 I'm not just good behind a computer screen, I also have great communication, presentation and interpersonal skills - making me a great team worker who is also capable of stepping up into leadership roles where necessary. You can view my CV [here](https://1drv.ms/b/s!Aj-ZG4vP0RwQljiSWhEgK3k-57mC?e=VlA9UZ).
 
